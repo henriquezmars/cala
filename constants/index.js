@@ -1,7 +1,7 @@
 const navLinks = [
  {
 	id: "cocktails",
-	title: "Cocktails",
+	title: "Fundadores",
  },
  {
 	id: "about",
@@ -9,7 +9,7 @@ const navLinks = [
  },
  {
 	id: "work",
-	title: "The Art",
+	title: "Our Work",
  },
  {
 	id: "contact",
@@ -19,55 +19,55 @@ const navLinks = [
 
 const cocktailLists = [
  {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
+	name: "Eddy Martinez",
+	country: "Presidente",
+	detail: "Parque Cibernético de Santo Domingo",
+	price: "ACTIVO",
  },
  {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
+	name: "Maria Fernanda Henríquez",
+	country: "Directora",
+	detail: "Club Astronómico Las Américas, Parque Cibernético de Santo Domingo",
+	price: "ACTIVA",
  },
  {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Génesis Jiménez Suárez",
+	country: "Investigadora",
+	detail: "Parque Cibernético de Santo Domingo",
+	price: "ACTIVA",
  },
  {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	name: "Enmanuel Henríquez",
+	country: "Investigador",
+	detail: "Parque Cibernético de Santo Domingo",
+	price: "ACTIVO",
  },
 ];
 
 const mockTailLists = [
  {
-	name: "Tropical Bloom",
-	country: "US",
-	detail: "Battle",
-	price: "$10",
+	name: "Christofer M Baez",
+	country: "Operaciones",
+	detail: "Club Astronómico Las Américas",
+	price: "ACTIVO",
  },
  {
-	name: "Passionfruit Mint",
-	country: "US",
-	detail: "Battle",
-	price: "$49",
+	name: "Idrialis Castillo",
+	country: "Miembro",
+	detail: "Club Astronómico Las Américas",
+	price: "ACTIVA",
  },
  {
-	name: "Citrus Glow",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Prof Carime Matos PhD",
+	country: " investigación en Astronomía y Astrofísica",
+	detail: "UASD ",
+	price: "ACTIVA",
  },
  {
-	name: "Lavender Fizz",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	name: "Edwin Sánchez",
+	country: "Líder",
+	detail: "Grupo de Ciencias Aeroespaciales INTEC",
+	price: "ACTIVO",
  },
 ];
 
