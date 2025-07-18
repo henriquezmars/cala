@@ -29,24 +29,23 @@ const About = () => {
 	 <div className="mb-16 md:px-0 px-5">
 		<div className="content">
 		 <div className="md:col-span-8">
-			<p className="badge">Best Cocktails</p>
+			<p className="badge">Innovando</p>
 			<h2>
-			 Where every detail matters <span className="text-white">-</span>
-				from muddle to garnish
+			 Siempre buscamos nuevas <span className="text-white">-</span>
+			 formas de hacer las cosas y eso es lo que nos hace únicos
 			</h2>
 		 </div>
 		 
 		 <div className="sub-content">
 			<p>
-			 Every cocktail we serve is a reflection of our obsession with detail — from the first muddle to the final garnish. That care is what turns a simple drink into something truly memorable.
-			</p>
+										 Somos un grupo de entusiastas de la astronomía y la astrofísica, unidos por nuestra pasión por el cosmos y nuestro deseo de compartir este conocimiento con la comunidad.						</p>
 			
 			<div>
 			 <p className="md:text-3xl text-xl font-bold">
 				<span>4.5</span>/5
 			 </p>
 			 <p className="text-sm text-white-100">
-				More than +12000 customers
+				De nuestros visitantes del CyberDay
 			 </p>
 			</div>
 		 </div>
