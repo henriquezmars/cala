@@ -91,19 +91,18 @@ const Hero = () => {
 		 
 		 <div className="content">
 			<div className="space-y-5 hidden md:block">
-			 <p>Cool. Crisp. Classic.</p>
+			 <p>Making the difference in LATAM</p>
 			 <p className="subtitle">
-				Sip the Spirit <br /> of Summer
+				Descubre nuestras <br /> innovaciones
 			 </p>
 			</div>
 			
 			<div className="view-cocktails">
 			 <p className="subtitle">
-				Every cocktail on our menu is a blend of premium ingredients,
-				creative flair, and timeless recipes — designed to delight your
-				senses.
+				Cada miembro de nuestro Club juega un papel fundamental
+				en diversas areas de la Astronomía y la Astrofísica.
 			 </p>
-			 <a href="#cocktails">View cocktails</a>
+			 <a href="#cocktails">Ver fundadores</a>
 			</div>
 		 </div>
 		</div>
