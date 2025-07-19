@@ -160,11 +160,11 @@ const allCocktails = [
  },
  {
 	id: 4,
-	name: "Curacao Mojito",
+	name: "Telescopio de Campo Amplio",
 	image: "/images/drink4.png",
-	title: "Crafted With Care, Poured With Love",
+	title: "Telescopio de Campo Amplio para Observación Astronómica",
 	description:
-	 "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+	 "Este telescopio de campo amplio es ideal para la observación de galaxias, cúmulos estelares y otros objetos celestes, proporcionando una vista amplia del cielo nocturno.",
  },
 ];
 
