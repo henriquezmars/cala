@@ -59,7 +59,7 @@ const Art = () => {
 		</div>
 		
 		<div className="masked-container">
-		 <h2 className="will-fade">Sip-Worthy Perfection</h2>
+		 <h2 className="will-fade">En el hub del Caribe</h2>
 		 <div id="masked-content">
 			<h3>Gran Lanzamiento en Casa de Campo, junto a FUNGLODE</h3>
 			<p>Desde ese momento empezó toda la magia, donde todos los sectores nos aliamos para poder traer este club a República Dominicana</p>
