@@ -35,21 +35,21 @@ const Contact = () => {
 	 <img src="/images/footer-left-leaf.png" alt="leaf-left" id="f-left-leaf" />
 	 
 	 <div className="content">
-		<h2>Where to Find Us</h2>
+		<h2>Agenda tu CyberDay</h2>
 		
 		<div>
-		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <h3>Visita nuestro Observatorio</h3>
+		 <p>Aut. Las Américas, Km 27 1/2 La Caleta, Boca Chica, Rep. Dom.</p>
 		</div>
 		
 		<div>
-		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <h3>Contáctanos</h3>
+		 <p>(809) 738-5000</p>
+		 <p>info@pcsd.com.do</p>
 		</div>
 		
 		<div>
-		 <h3>Open Every Day</h3>
+		 <h3>De Lunes a Viernes</h3>
 		 {openingHours.map((time) => (
 			<p key={time.day}>
 			 {time.day} : {time.time}

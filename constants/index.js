@@ -87,77 +87,76 @@ const profileLists = [
 ];
 
 const featureLists = [
- "Perfectly balanced blends",
- "Garnished to perfection",
- "Ice-cold every time",
- "Expertly shaken & stirred",
+ "Los mejores profesionales",
+ "Alianzas gubernamentales",
+ "Cooperación internacional",
+ "Divulgación científica",
 ];
 
 const goodLists = [
- "Handpicked ingredients",
- "Signature techniques",
- "Bartending artistry in action",
- "Freshly muddled flavors",
+ "Primer club astronómico con IA del Caribe",
+ "Enfocado en publicaciones científicas",
+ "Observación activa del cosmos 24 horas",
+ "Sistema avanzado de detecciones",
 ];
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "Aut. Las Américas, Km 27 1/2 La Caleta, Boca Chica, Rep. Dom.",
  contact: {
-	phone: "(555) 987-6543",
+	phone: "(809) 738-5000",
 	email: "hello@jsmcocktail.com",
  },
 };
 
 const openingHours = [
- { day: "Mon–Thu", time: "11:00am – 12am" },
- { day: "Fri", time: "11:00am – 2am" },
- { day: "Sat", time: "9:00am – 2am" },
- { day: "Sun", time: "9:00am – 1am" },
+ { day: "Mon–Thu", time: "9:00am – 4:00pm" },
+ { day: "Fri", time: "11:00am – 3pm" },
+
 ];
 
 const socials = [
  {
 	name: "Instagram",
 	icon: "/images/insta.png",
-	url: "#",
+	url: "https://www.instagram.com/parqueciberneticosd/",
  },
  {
 	name: "X (Twitter)",
 	icon: "/images/x.png",
-	url: "#",
+	url: "https://x.com/parquecibernet1",
  },
  {
 	name: "Facebook",
 	icon: "/images/fb.png",
-	url: "#",
+	url: "https://www.facebook.com/pcsdrd/?locale=es_LA",
  },
 ];
 
 const allCocktails = [
  {
 	id: 1,
-	name: "Classic Mojito",
-	image: "/images/drink1.png",
-	title: "Simple Ingredients, Bold Flavor",
+	name: "Telescopio Solar",
+	image: "/images/abt5.png",
+	title: "Telescopio para la observación del Sol",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "Con este telescopio podrás observar el Sol de manera segura y detallada, descubriendo sus manchas solares y otras características fascinantes.",
  },
  {
 	id: 2,
-	name: "Raspberry Mojito",
-	image: "/images/drink2.png",
-	title: "A Zesty Classic That Never Fails",
+	name: "Telescopio RASA",
+	image: "/images/abt1.png",
+	title: "Telescopio Rowe-Ackermann Schmidt Astrograph",
 	description:
-	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+	 "Este telescopio es ideal para astrofotografía, permitiendo capturar imágenes de alta calidad de objetos celestes lejanos.",
  },
  {
 	id: 3,
-	name: "Violet Breeze",
+	name: "Telescopio Dobson",
 	image: "/images/drink3.png",
-	title: "Simple Ingredients, Bold Flavor",
+	title: "Telescopio Dobsoniano",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "Este telescopio Dobson Compacto de 25 pulgadas es perfecto para la observación de planetas y nebulosas, ofreciendo una experiencia visual impresionante.",
  },
  {
 	id: 4,
