@@ -46,8 +46,8 @@ const cocktailLists = [
 
 const mockTailLists = [
  {
-	name: "Christofer M Baez",
-	country: "Operaciones",
+	name: "Oscar Lithgow",
+	country: "Telescope Specialist",
 	detail: "Club Astronómico Las Américas",
 	price: "ACTIVO",
  },
